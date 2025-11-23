@@ -16,5 +16,19 @@
     "status": "pending",
     "orderDate": "2025-11-23T04:40:22.240Z",
     "orderId": "CUST1763872822241"
+  },
+  {
+    "service": "Professional Plan",
+    "totalPrice": 35000,
+    "advanceAmount": 17500,
+    "clientName": "Ahmed Omar",
+    "clientEmail": "ahmedumerahmedumer52@gmail.com",
+    "clientPhone": "+92 3348287232",
+    "projectName": "Testing",
+    "projectDetails": "For Testing",
+    "type": "standard",
+    "status": "pending",
+    "orderDate": "2025-11-23T05:41:55.088Z",
+    "orderId": "ORD1763876515088"
   }
 ]
