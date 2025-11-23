@@ -1,15 +1,16 @@
 [
-
-
-
-
-
-
-
-
-
-
-
-
-
+  {
+    "service": "Basic Plan",
+    "totalPrice": 15000,
+    "advanceAmount": 7500,
+    "clientName": "Ahmed",
+    "clientEmail": "ahmed@gmail.com",
+    "clientPhone": "543545435345",
+    "projectName": "54533",
+    "projectDetails": "453435",
+    "type": "standard",
+    "status": "pending",
+    "orderDate": "2025-11-23T02:52:44.262Z",
+    "orderId": "ORD1763866364263"
+  }
 ]
