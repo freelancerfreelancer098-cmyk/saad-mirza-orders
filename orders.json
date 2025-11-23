@@ -13,7 +13,7 @@
     "service": "Custom Order - Other",
     "totalPrice": 1000,
     "type": "custom",
-    "status": "pending",
+    "status": "completed",
     "orderDate": "2025-11-23T04:40:22.240Z",
     "orderId": "CUST1763872822241"
   },
