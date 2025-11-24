@@ -1,4 +1,14 @@
 {
-  "messages": [],
-  "lastUpdated": "2025-11-24T03:00:40.625Z"
+  "messages": [
+    {
+      "name": "Ahmed Omar",
+      "email": "ahmedumerahmedumer52@gmail.com",
+      "subject": "Hi",
+      "message": "Test",
+      "timestamp": "2025-11-24T09:51:34.627Z",
+      "type": "contact",
+      "id": "MSG1763977906251"
+    }
+  ],
+  "lastUpdated": "2025-11-24T09:51:46.253Z"
 }
