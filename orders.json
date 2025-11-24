@@ -9,10 +9,11 @@
       "deadline": "2025-11-25",
       "details": "Hi",
       "budget": "1000",
-      "status": "pending",
+      "status": "completed",
       "timestamp": "2025-11-24T02:56:52.867Z",
-      "type": "order"
+      "type": "order",
+      "updatedAt": "2025-11-24T03:01:20.815Z"
     }
   ],
-  "lastUpdated": "2025-11-24T02:56:53.979Z"
+  "lastUpdated": "2025-11-24T03:01:21.175Z"
 }
