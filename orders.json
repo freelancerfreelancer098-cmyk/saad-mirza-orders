@@ -1,34 +1,18 @@
-[
-  {
-    "clientName": "Ahmed Omar",
-    "clientEmail": "ahmedumerahmedumer52@gmail.com",
-    "clientPhone": "03348287232",
-    "projectName": "test",
-    "serviceType": "Other",
-    "projectDuration": "10s",
-    "deadline": "1 day",
-    "budget": 1000,
-    "projectDetails": "Hi Saad its for testing",
-    "advanceAmount": 500,
-    "service": "Custom Order - Other",
-    "totalPrice": 1000,
-    "type": "custom",
-    "status": "completed",
-    "orderDate": "2025-11-23T04:40:22.240Z",
-    "orderId": "CUST1763872822241"
-  },
-  {
-    "service": "Professional Plan",
-    "totalPrice": 35000,
-    "advanceAmount": 17500,
-    "clientName": "Ahmed Omar",
-    "clientEmail": "ahmedumerahmedumer52@gmail.com",
-    "clientPhone": "+92 3348287232",
-    "projectName": "Testing",
-    "projectDetails": "For Testing",
-    "type": "standard",
-    "status": "completed",
-    "orderDate": "2025-11-23T05:41:55.088Z",
-    "orderId": "ORD1763876515088"
-  }
-]
+{
+  "orders": [
+    {
+      "id": "ORD1763953012867",
+      "name": "Ahmed",
+      "whatsapp": "+92 3348287232",
+      "email": "ahmed098@gmail.com",
+      "project": "Hi",
+      "deadline": "2025-11-25",
+      "details": "Hi",
+      "budget": "1000",
+      "status": "pending",
+      "timestamp": "2025-11-24T02:56:52.867Z",
+      "type": "order"
+    }
+  ],
+  "lastUpdated": "2025-11-24T02:56:53.979Z"
+}
