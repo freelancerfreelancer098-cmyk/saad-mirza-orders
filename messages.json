@@ -1,9 +1,14 @@
-[
-
-
-
-
-
-
-
-]
+{
+  "messages": [
+    {
+      "name": "Ahmed Omar",
+      "email": "saadumersaadumer54@gmail.com",
+      "subject": "Hi",
+      "message": "Testing",
+      "timestamp": "2025-11-24T02:53:53.926Z",
+      "type": "contact",
+      "id": "MSG1763952837333"
+    }
+  ],
+  "lastUpdated": "2025-11-24T02:53:58.700Z"
+}
